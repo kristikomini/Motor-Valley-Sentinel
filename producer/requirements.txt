@@ -1,0 +1,2 @@
+aiokafka>=0.10.0
+asyncio-throttle>=1.0.2
